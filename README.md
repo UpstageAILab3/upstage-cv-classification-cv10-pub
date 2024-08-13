@@ -2,10 +2,10 @@
 # Title (Please modify the title)
 ## Team
 
-| ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
+| ![남상이](https://avatars.githubusercontent.com/u/156163982?v=4) | ![박건민](https://avatars.githubusercontent.com/u/156163982?v=4) | ![박주연](https://avatars.githubusercontent.com/u/156163982?v=4) | ![유승호](https://avatars.githubusercontent.com/u/156163982?v=4) | ![홍진영](https://avatars.githubusercontent.com/u/156163982?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [박패캠](https://github.com/UpstageAILab)             |            [이패캠](https://github.com/UpstageAILab)             |            [최패캠](https://github.com/UpstageAILab)             |            [김패캠](https://github.com/UpstageAILab)             |            [오패캠](https://github.com/UpstageAILab)             |
-|                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
+|            [남상이](https://github.com/UpstageAILab)             |            [박건민](https://github.com/Rotifunk/)             |            [박주연](https://github.com/UpstageAILab)             |            [유승호](https://github.com/UpstageAILab)             |            [홍진영](https://github.com/UpstageAILab)             |
+|                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
 
 ## 0. Overview
 ### Environment
